@@ -6,7 +6,7 @@
 
 ## 🚀 My GitHub Projects
 - 📇 **[Contact Management System](https://github.com/venkateshpagilla/ContactManagementSystem)** – A console-based app to manage and persist contact information.  
-- 🧮 **[Coding Problem Solver](https://github.com/venkateshpagilla/CodingProblemSolver)** – Solve basic DSA problems interactively from the console.  
+- 🧮 **[Coding Problem Solver](https://github.com/venkateshpagilla/CodingProblemSolver.java)** – Solve basic DSA problems interactively from the console.  
 - 📊 **Student Grade Calculator** *(coming soon)* – Calculates total, average, and grades based on student marks.
 
 ## 🛠️ Skills
@@ -14,20 +14,5 @@
 - **Core Concepts:** OOPs, DSA, File Handling
 - **Tools:** Eclipse, VS Code, Git & GitHub
 
-📫 **Reach me at:** [venkateshpagilla9999@gmail.com](mailto:venkateshpagilla9999@gmail.com)
+📫 **Reach me at:** [venkateshpagilla9999@gmail.com](mailto:your-venkateshpagilla9999@gmail.com)
 
-
-<!--
-**venkateshpagilla/venkateshpagilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
